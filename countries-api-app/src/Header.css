@@ -1,0 +1,16 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    box-shadow: rgba(33, 35, 38, 0.1) 0px 10px 10px -10px;
+    padding: 20px 50px 20px 50px;
+    align-items: center;
+    background-color: white;
+}
+.header div{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.header div p{
+    font-weight: 600;
+}

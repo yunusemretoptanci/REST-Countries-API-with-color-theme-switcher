@@ -1,0 +1,19 @@
+.country-card{
+    background-color: white;
+    border-radius: 3px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    width: 270px;
+}
+.country-image{
+    width: 270px;
+    height: 180px;
+}
+.country-detail h3{
+    margin-bottom: 10px;
+}
+.country-detail span{
+    font-weight: 600;
+}
+.country-detail{
+    padding: 15px 20px 40px 15px;
+}
